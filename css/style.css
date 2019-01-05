@@ -1,0 +1,12 @@
+@font-face{
+	font-family:Charm-Bold;
+	src:url(../fonts/Charm-Bold.ttf);
+}
+@font-face{
+	font-family:ZCOOLKuaiLe-Regular;
+	src:url(../fonts/ZCOOLKuaiLe-Regular.ttf);
+}
+.z{font-family:ZCOOLKuaiLe-Regular;
+	text-align: center;}
+.c{font-family:Charm-Bold;
+	text-align: center;}
